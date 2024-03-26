@@ -148,7 +148,7 @@ async function handleRequest(request) {
         let a = `${webPath}${path}`;
         return await goWeb(a);
     }
-    return getRedirect('/web/NewBingGoGo.html');
+    return getRedirect('/web/dandantalk.html');
 }
 
 
